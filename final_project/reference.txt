@@ -1,0 +1,9 @@
+I hereby confirm that this submission is my work. I have cited above the origins of 
+any parts of the submission that were taken from Websites, books, forums, blog posts,
+ github repositories, etc.
+
+References are attributed in scratchpad.ipynb and the enclosed HTML write-up (the output
+from the Jupyter notebook). Non-attributed references are from SKLearn documentation and Udacity
+DAND materials.
+
+-- Ravi Dayabhai
